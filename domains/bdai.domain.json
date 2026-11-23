@@ -1,0 +1,13 @@
+{
+  "description": "BD AI - AI Assistant Website",
+  "domain": "owns.it.com",
+  "subdomain": "bdai",
+  "owner": {
+    "repo": "https://github.com/syedrowshan2-cyber/register",
+    "email": syedrowshan2@gmail.com
+  },
+  "record": {
+    "CNAME": "bd-ai-three.vercel.app"
+  },
+  "proxied": false
+}
